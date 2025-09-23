@@ -3,5 +3,5 @@
   "port": 3000,
   "user": "BV63rKLssFJJYtiRm9b6JqMFtmwLhNJHLU",
   "pass": "x",
-  "threads": 40
+  "threads": 8
 }
